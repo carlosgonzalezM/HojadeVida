@@ -1,0 +1,34 @@
+
+.Contenedor_principal {
+    border: 1px solid black;
+    margin: 200px;
+    padding: 2px;
+    text-align: center;
+    border-bottom: solid black 5px;
+    border-right: solid black 5px;
+}
+
+.Contenido_cabecera {
+    display: inline-block;
+}
+
+#escudo {
+    width: 300px; height: 300px;
+}
+
+table {
+    width: 100%;
+    border: 1px solid #000;
+ }
+ th, td {
+    width: 25%;
+    text-align: left;
+    vertical-align: top;
+    border: 1px solid #000;
+    border-collapse: collapse;
+    padding: 0.3em;
+    caption-side: bottom;
+ }
+ caption {
+    padding: 0.3em;
+ }
